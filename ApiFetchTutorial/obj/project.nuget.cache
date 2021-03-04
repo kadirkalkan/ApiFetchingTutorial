@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "au8BovLyG4F8mFmhA+i9BVio1I8trIH0Faetfi5qWmGEWqAoVTqVgfY0sS2Rt1kxpWlj+MFVN3BI4jTBIJD28g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kadir Akkan\\source\\repos\\ApiFetchTutorial\\ApiFetchTutorial\\ApiFetchTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kadir Akkan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
